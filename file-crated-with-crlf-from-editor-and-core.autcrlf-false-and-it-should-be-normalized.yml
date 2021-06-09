@@ -1,0 +1,6 @@
+file: "archivo yml creado con crlf y la"
+gitattributes: 
+ content: "* text=auto eol=lf"
+ description: "todos los achivos de texto normalizado a lf"
+core:
+ autocrlf: "false"
