@@ -1,0 +1,2 @@
+archivo con saltos
+de linea LF
